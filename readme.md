@@ -10,9 +10,7 @@
 
 
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lovichh.Lovichh&left_text=BOBO"  />
-</div>
+
 
 
 
@@ -66,15 +64,11 @@
 </div>
 
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lovichh.Lovichh&left_text=HAHAHAHAHHA"  />
-</div>
 
 
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lovichh.Lovichh&left_text=MAKARORO%20ON%20TOP"  />
-</div>
+
+
 
 
 <div align="center">
